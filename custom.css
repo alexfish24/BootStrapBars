@@ -1,0 +1,31 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE */
+.bg-dark {
+    --bs-bg-opacity: 1;
+    background-color:black !important;}
+}
+.bg-primary {
+    background-image:url("HeroImage.jpg") !important;
+    background-repeat:no-repeat !important;
+    background-size:cover !important;
+   
+}
+
+body {
+    
+    color:white !important;
+    background-color:#1B1F3A !important;
+}
+    
+   .bg-light {
+    
+    text-decoration-color: white; !important;
+    background-color:#42291C !important;
+}
+      
+
+
+.btn-light {
+    color:gold !important;
+    background-color:black !important;
+    border-color:black !important;
+}

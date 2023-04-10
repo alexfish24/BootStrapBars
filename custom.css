@@ -1,0 +1,40 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE */
+.bg-dark {
+    --bs-bg-opacity: 1;
+    background-color:black !important;
+}
+.bg-primary {
+    --bs-bg-opacity: 1;
+    background-image: url("HeroImage.jpg") !important;
+    background-repeat:no-repeat;
+    background-size:cover;}
+
+}
+
+body {
+    margin: 0;
+    background-color:#182747;
+    font-family: sans-serif;
+    font-size: var(--bs-body-font-size);
+    font-weight: var(--bs-body-font-weight);
+    line-height: var(--bs-body-line-height);
+    color:white;
+    text-align: var(--bs-body-text-align);
+    text-decoration-color:  color: white;
+    background-color:#182747; !important;
+    -webkit-text-size-adjust: 100%;
+    }
+    
+   .bg-light {
+    --bs-bg-opacity: 1;
+    background-color:#42291C !important;
+       
+    
+}
+
+
+.btn-light {
+    color:gold;
+    background-color:black;
+    border-color:black;
+}
